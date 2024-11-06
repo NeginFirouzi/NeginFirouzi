@@ -19,6 +19,3 @@
 <a href="https://linkedin.com/in/negin-firouzi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="negin-firouzi" height="30" width="40" /></a>
 <a href="https://kaggle.com/neginfirouzi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="neginfirouzi" height="30" width="40" /></a>
 </p>
-
----
-[![](https://visitcount.itsvg.in/api?id=neginfirouzi&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
